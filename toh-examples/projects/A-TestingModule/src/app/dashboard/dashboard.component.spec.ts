@@ -26,7 +26,6 @@ describe('DashboardComponent', () => {
         RouterTestingModule.withRoutes([])
       ],
       providers: [
-        { provide: HeroService, useValue: heroService }
       ]
     })
     .compileComponents();
