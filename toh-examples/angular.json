@@ -90,7 +90,8 @@
             "styles": [
               "projects/A-TestingModule/src/styles.css"
             ],
-            "scripts": []
+            "scripts": [],
+            "sourceMap": false
           }
         },
         "lint": {
@@ -207,7 +208,8 @@
             "styles": [
               "projects/B-StubbedComponents/src/styles.css"
             ],
-            "scripts": []
+            "scripts": [],
+            "sourceMap": false
           }
         },
         "lint": {
